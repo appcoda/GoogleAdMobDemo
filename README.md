@@ -6,6 +6,8 @@ Among all the mobile ad networks, it is undeniable that Google’s AdMob is the 
 
 To use AdMob in your apps, you will need to use the Google Mobile Ads SDK. The integration is not difficult. To display a simple ad banner, it just takes a few lines of code and you’re ready to start making a profit from your app.
 
+![](admob-0.jpg)
+
 For the full tutorial, please check it out here:
 
 http://www.appcoda.com/google-admob-ios-swift
